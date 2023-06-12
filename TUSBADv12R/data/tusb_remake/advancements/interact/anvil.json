@@ -5,9 +5,10 @@
       "conditions": {
         "location": [
           {
-            "condition": "minecraft:location_check",
+            "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
+              "location": {
                 "block": {
                   "blocks": [
                     "anvil",
@@ -17,6 +18,7 @@
                 }
               }
             }
+          }
         ]
       }
     }
