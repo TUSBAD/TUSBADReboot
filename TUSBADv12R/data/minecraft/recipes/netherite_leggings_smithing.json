@@ -1,13 +1,10 @@
 {
-  "type": "minecraft:smithing_transform",
+  "type": "minecraft:smithing",
   "base": {
     "item": "minecraft:diamond_leggings"
   },
-  "template": {
-    "item": "minecraft:bedrock"
-  },
   "addition": {
-    "item": "minecraft:suspicious_sand"
+    "item": "minecraft:bedrock"
   },
   "result": {
     "item": "minecraft:netherite_leggings"

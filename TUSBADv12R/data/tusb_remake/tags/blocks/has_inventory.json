@@ -1,7 +1,7 @@
 {
     "values": [
-        "#tusb_remake:containers",
-        "#tusb_remake:command_blocks",
+        "#lib:containers",
+        "#lib:command_blocks",
         "#anvil",
         "enchanting_table",
         "loom",
