@@ -1,5 +1,5 @@
 {
-	"condition": "any_of",
+	"condition": "alternative",
 	"terms": [
 		{
 			"condition": "minecraft:entity_properties",
@@ -29,3 +29,4 @@
 		}
 	]
 }
+
